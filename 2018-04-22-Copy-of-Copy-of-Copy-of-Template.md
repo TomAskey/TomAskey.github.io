@@ -1,6 +1,6 @@
 ---
 title: Lesson 1 Python
-layout: post
+layout: _posts
 author: Thomas Askey
 permalink: /copy-of-copy-of-copy-of-template/
 source-id: 1HMcUPDbe0vJFk4R-CYPYfMwgcbDmfsreMvfH_s1fhFQ
