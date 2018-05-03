@@ -1,5 +1,5 @@
 ---
-title: Lesson 2 Python
+title: Lesson 1 Python
 layout: _posts
 author: Thomas Askey
 permalink: /copy-of-copy-of-copy-of-template/
