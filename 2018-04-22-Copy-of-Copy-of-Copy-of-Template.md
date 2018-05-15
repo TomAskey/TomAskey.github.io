@@ -1,5 +1,5 @@
 ---
-title: Lesson 2 Python
+title: Lesson 4 Python
 layout: _posts
 author: Thomas Askey
 permalink: /copy-of-copy-of-copy-of-template/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title:</td>
-    <td>Lesson 1 Python</td>
+    <td>Lesson 4 Python</td>
     <td>Date</td>
-    <td>26/4/18</td>
+    <td>15/5/18</td>
   </tr>
 </table>
 
@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Complete 1 part of a exercise.</td>
+    <td>Complete a full exercise.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
@@ -42,7 +42,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Looking at my partners and seeing how the do their work right would help me get further on, but not copying them. Another strategy is to be quiet so that the supply teacher did not have to stop the lesson to tell that person of for being loud, would help us all learn.</td>
+    <td>Looking at my partners and seeing how the do their work right would help me get further on, but not copying them. Another strategy is to be quiet so that Mr Ampah-Korsa did not have to stop the lesson to tell that person of for being loud, would help us all learn.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
