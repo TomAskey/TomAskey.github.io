@@ -110,12 +110,12 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  max-width: 120%;
 }
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
-  max-width: none;
+  max-width: 100%;
 }
 
 .date {
