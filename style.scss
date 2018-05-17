@@ -20,7 +20,10 @@ html {
 body {
 	background-image: url("http://www.intrawallpaper.com/static/images/Hawaii-Beach-Wallpaper-HD_8pA2vrZ.jpg");
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $darkGray; 
+background-position: right top;
+    background-attachment: fixed;
+ background-repeat: no-repeat;
 }
 
 .container {
