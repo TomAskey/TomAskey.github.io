@@ -26,8 +26,13 @@ body {
  background-repeat: no-repeat;
 }
 
-table {
-    border-collapse: collapse;
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+  background: rgba(214, 40, 40, 0.6);
+  border-radius: 25px;
 }
 
 table, th, td {
